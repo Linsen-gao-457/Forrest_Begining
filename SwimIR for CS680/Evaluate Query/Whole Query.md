@@ -20,8 +20,29 @@
 | yoruba_2426#61  |                                                              | Query: three part of langua doc: Three parts of grammar      |
 | yoruba_2426#74  | query: is the base                                           |                                                              |
 | yoruba_2426#108 | Qurey: what                                                  |                                                              |
+| yoruba_2430#53  |                                                              | Query: say this word in Youruba<br />Doc: relevant           |
+| yoruba_2431#5   | Query : What did he do?                                      |                                                              |
+| yoruba_2431#73  |                                                              | Query: the girl’s husband’s gender<br />Doc: famine content  |
+| yoruba_2431#264 | NULL                                                         |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
+|                 |                                                              |                                                              |
 
-Question one
+LLM: 4602/4790 =96% 
+
+# Question one
 
 | Query id       | Question                                                     |
 | -------------- | ------------------------------------------------------------ |
@@ -34,6 +55,3 @@ Question one
 |                |                                                              |
 |                |                                                              |
 
-bad quality of query/ ~90%
-
-LLM judge ~95%

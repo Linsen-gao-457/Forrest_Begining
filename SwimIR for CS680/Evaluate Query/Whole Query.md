@@ -86,9 +86,98 @@
 | yoruba_6840#3   | qeury: omi to                                                |                                                              |
 | yoruba_6910#3   | query: what do people travel there to do                     |                                                              |
 | yoruba_10132#0  | query: Èdè G                                                 |                                                              |
+| yoruba_10603#0  |                                                              | confused about southeast and northwest                       |
+| yoruba_10833#0  | query: who is form                                           |                                                              |
+| yoruba_10875#0  |                                                              | query:second , but not  doc does not mention                 |
+| yoruba_10880#0  | query: what’s it                                             |                                                              |
+| yoruba_11013#0  | query: Tu                                                    |                                                              |
+| yoruba_11238#2  | qeury: how many years does he live                           |                                                              |
+| yoruba_11276#0  | query: I                                                     |                                                              |
+| yoruba_11351#4  | query: why did people                                        |                                                              |
+| yoruba_11435#16 |                                                              | not relevant                                                 |
+| yoruba_11435#18 | num in query                                                 |                                                              |
+| yoruba_11536#0  | query: o                                                     |                                                              |
+| yoruba_11595#0  | query:” aj                                                   |                                                              |
+| yoruba_11741#1  | query: what’s feature                                        |                                                              |
+| yoruba_12308#18 |                                                              | irrelevant                                                   |
+| yoruba_12325#4  | Null                                                         |                                                              |
+| yoruba_12517#5  | human                                                        |                                                              |
+| yoruba_13002#0  |                                                              |                                                              |
+| yoruba_13322#0  | query: Gu                                                    |                                                              |
+| yoruba_13517#0  | query: because..                                             |                                                              |
+| yoruba_13519#1  |                                                              | powerful != hard                                             |
+| yoruba_13519#5  | qeury: what’s the best way to help                           |                                                              |
+| yoruba_13519#7  |                                                              | make iron / the carbon proces                                |
+| yoruba_13519#13 |                                                              | carbon / unit of group                                       |
+| yoruba_13519#20 |                                                              | Query and doc are irrelevant<br />element -> a type of carbon |
+| yoruba_13519#21 | query: unclear                                               |                                                              |
+| yoruba_13521#2  | query: what part of body                                     |                                                              |
+| yoruba_13525#0  |                                                              | query: second doc: never mention second                      |
+| yoruba_13529#0  |                                                              | different subject                                            |
+| yoruba_13543#1  | why potasiom and ..                                          |                                                              |
+| yoruba_13867#0  |                                                              | population is 93 th instead of 93k                           |
+| yoruba_14063#1  | Query: A                                                     | `                                                            |
+| yoruba_14593#0  | Query: NULL                                                  |                                                              |
+| yoruba_14487#1  | Query: incomplete                                            |                                                              |
+| yoruba_14745#0  | Query: incomplete                                            |                                                              |
+| yoruba_14787#0  |                                                              | Query: Abel war, Doc Civil                                   |
+| yoruba_15144#15 | Query: where does this report find                           |                                                              |
+| yoruba_15144#16 | Query: NASA                                                  |                                                              |
+| yoruba_15144#17 |                                                              | query: produce equipment<br />doc: challenges                |
+| yoruba_15144#32 | Query: what causes the error                                 |                                                              |
+| yoruba_15144#48 | query: NULL                                                  |                                                              |
+| yoruba_15144#67 |                                                              | STSCI                                                        |
+| yoruba_15144#78 |                                                              | irrelevant                                                   |
+| yoruba_15197#0  | query: ibn                                                   |                                                              |
+| yoruba_15249#1  | query: incomplete                                            |                                                              |
+| yoruba_15892#16 | incomplete to require who uses the perspective               |                                                              |
+| yoruba_18215#0  | query: independence country(too general)                     |                                                              |
+| yoruba_18230#3  | query: incomplete                                            |                                                              |
+| yoruba_18232#4  |                                                              | query and doc are similar but failed                         |
+| yoruba_18238#1  | query: blur                                                  |                                                              |
+| yoruba_18308#7  | query: null                                                  |                                                              |
+| yoruba_18308#12 | query: incomplete                                            |                                                              |
+| yoruba_18482#2  | query: incomplete                                            |                                                              |
+| yoruba_18482#3  | query: null                                                  |                                                              |
+| yoruba_18789#2  | query: incomplete                                            |                                                              |
+| yoruba_18859#7  |                                                              | qeury: talk about first title but does not mention others    |
+| yoruba_18908#1  |                                                              | irrelevant                                                   |
+| yoruba_20831#0  | query: null                                                  |                                                              |
+| yoruba_20842#0  | query: I                                                     |                                                              |
+| yoruba_21704#3  | qeury: incomplete                                            |                                                              |
+| yoruba_22489#3  | query: incomplete                                            |                                                              |
+| yoruba_22909#1  |                                                              | irrelevant                                                   |
+| yoruba_23189#0  | query: null                                                  |                                                              |
+| yoruba_23701#4  | query: why does he become famous                             |                                                              |
+| yoruba_24910#1  | query: when and who established                              |                                                              |
+| yoruba_25231#1  |                                                              | irrelevant                                                   |
+| yoruba_25690#7  | query: incomplete                                            |                                                              |
+| yoruba_26143#0  | query: incomplete                                            |                                                              |
+| yoruba_26149#3  |                                                              | irrelevant                                                   |
+| yoruba_26342#1  | query: incomplete                                            |                                                              |
+| yoruba_26529#1  | query: I                                                     |                                                              |
+| yoruba_26876#0  | query: incomplete                                            |                                                              |
+| yoruba_28772#0  | qeury: incomplete                                            |                                                              |
+| yoruba_26143#0  | qeury: incompolete                                           |                                                              |
+| yoruba_26140#1  |                                                              | irrelevant                                                   |
+| yoruba_26149#3  |                                                              | irrelevant                                                   |
+| yoruba_26342#1  | query:iocomplete                                             |                                                              |
+| yoruba_26529#1  | query: I                                                     |                                                              |
+| yoruba_26876#0  | query: incomplete                                            |                                                              |
+| yoruba_28772#0  | query: incomplete                                            |                                                              |
+| yoruba_31331#0  | incomplete                                                   |                                                              |
+| yoruba_31344#0  | Erekusu’s student is from Caribbean. not Erekusu is form Caribbean |                                                              |
+| yoruba_33659#1  | query: incomplete                                            |                                                              |
+| yoruba_33953#0  |                                                              | irrelevant                                                   |
+| yoruba_34115#1  | query: incomplete                                            |                                                              |
+| yoruba_34159#4  | query: incomplete                                            |                                                              |
+| yoruba_34175#23 | query: incomplete                                            |                                                              |
+| yoruba_34175#24 | query: incomplete                                            |                                                              |
 |                 |                                                              |                                                              |
 
 LLM: 4602/4790 =96% 
+
+yoruba_34175#47
 
 # Question one
 

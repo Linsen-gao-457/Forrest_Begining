@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, force=True)
 
 # Initialize Azure OpenAI client
-client = AzureOpenAI(
+client = AzureOpenAI()
 
 def create_relevance_prompt(query_id: str, query_text: str, doc_id: str, doc_content: str) -> str:
     """Create a prompt for the OpenAI model to assess document relevance."""

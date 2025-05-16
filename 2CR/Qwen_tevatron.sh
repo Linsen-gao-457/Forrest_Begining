@@ -8,12 +8,12 @@ cd ~/scratch/Fine-tune/tevatron
 
 export CKPT=/home/l78gao/scratch/Fine-tune/tevatron/MIRACLtrain-qwen25
 export DATASET=yo
-export BASE_MODEL_PATH=/home/l78gao/scratch/Fine-tune/tevatron/Qwen2.5-3B/models--Qwen--Qwen2.5-3B
+export BASE_MODEL_PATH=/home/l78gao/scratch/Fine-tune/tevatron/Qwen2.5-3B/models--Qwen--Qwen2.5-3B/snapshots/3aab1f1954e9cc14eb9509a215f9e5ca08227a9bexport BASE_MODEL_PATH=/home/l78gao/scratch/Fine-tune/tevatron/Qwen2.5-3B/models--Qwen--Qwen2.5-3B
 
 
 mkdir -p miracl_embedding/${CKPT}/${DATASET}
 PYTHONPATH=~/scratch/Fine-tune/tevatron:$PYTHONPATH \
-CUDA_VISIBLE_DEVICES=0 python -m tevatron.retriever.driver.encode_mm \
+CUDA_VISIBLE_DEVICES=0 python -m tevatron.retriever.driver.encode \
   --output_dir=temp \
   --model_name_or_path ${BASE_MODEL_PATH} \
   --lora_name_or_path ${CKPT} \
